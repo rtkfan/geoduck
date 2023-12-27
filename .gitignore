@@ -1,0 +1,4 @@
+*.csv
+sample_data
+
+.ipynb_checkpoints
